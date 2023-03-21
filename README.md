@@ -4,7 +4,7 @@
 <h2 align="left">Skills And Experinces:</h2>
 <h3 align="left">Language : C, C++, Python, Java, Javascript </h3>
 <h3 align="left">Web : Django, html, css</h3>
-<h3 align="left">Special : Data Structure, Algorithm, Machine Learning</h3>
+<h3 align="left">Special : Data Structures, Algorithms, Machine Learning</h3>
 
 
 
