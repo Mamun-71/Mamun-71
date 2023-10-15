@@ -2,12 +2,12 @@
 <h3 align="center">A passionate competitive programmer from Bangladesh.</h3>
 
 <h2 align="left">Skills And Experinces:</h2>
-<h3 align="left">Language : C, C++, Python </h3>
+<h3 align="left">Language : C, C++, Java,Python </h3>
 <h3 align="left">Special : Data Structures, Algorithms,</h3>
 
 
 
-- 🌱 I’m currently learning **Python,Django**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **competitive programming**
 
